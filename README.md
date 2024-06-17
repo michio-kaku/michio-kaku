@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me yarenbarlasceki518@gmail.com
-- 😄 Pronouns: she*her 
+- 😄 Pronouns: she/her
 - ⚡ Fun fact:per aspera ad astra 
 
 <!---
